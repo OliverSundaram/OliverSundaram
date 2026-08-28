@@ -1,4 +1,6 @@
 # Hi, I'm Oliver ✨:
+[![](https://komarev.com/ghpvc/?username=OliverSundaram&icon=5&color=blue)](https://visitcount.itsvg.in)
+
 I'm currently a high school student living in Canada 🍁<br>I'm currently working on publishing a fully trained LLM (Large Language Model) 💪<br>I'm currently learning everything related to AI 🤖
 
 
@@ -10,4 +12,4 @@ I'm currently a high school student living in Canada 🍁<br>I'm currently worki
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OliverSundaram&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=OliverSundaram&icon=5&color=blue)](https://visitcount.itsvg.in)
+
